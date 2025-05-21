@@ -1,11 +1,26 @@
 
 # Drone-Based 3D Scene Reconstruction
 
+---
+
+
 ## Authors
 1. Mohammed Munawwar
 2. Swaraj Mundruppady Rao
 
 This project provides a pipeline for reconstructing 3D scenes using aerial imagery captured by drones. It leverages tools like COLMAP and Open3D to process images and generate 3D models.
+
+
+---
+
+## Documentation
+
+- **[Project Report](https://drive.google.com/file/d/19g_cB39ti02bqC6h6yMWKlig6WMJW79R/view?usp=sharing)**
+- **[Project Presentation](https://docs.google.com/presentation/d/1h7pGTUIblVSNztZNOEVr52StKSRNe_hv/edit?usp=sharing&ouid=105805276981554552478&rtpof=true&sd=true)**
+
+---
+
+
 
 ## Prerequisites
 
