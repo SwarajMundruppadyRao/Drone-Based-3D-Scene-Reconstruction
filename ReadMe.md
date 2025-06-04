@@ -8,8 +8,8 @@
 ---
 
 ## Authors
-1. Mohammed Munawwar  
-2. Swaraj Mundruppady Rao
+1. Swaraj Mundruppady Rao
+2. Mohammed Munawwar  
 
 This project provides a full pipeline for reconstructing 3D scenes using aerial imagery captured by drones.  
 It leverages ROS 2, OpenCV, COLMAP (with CUDA), and MeshLab to process images and generate 3D models.
