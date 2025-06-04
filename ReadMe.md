@@ -45,10 +45,10 @@ This repository is designed to run in two parts:
 In this project, some scripts and commands use hardcoded file paths like:
 
 ```
-/home/munawwar/Final Colmap/
+/home/swarajmrao/Final Colmap/
 ```
 
-If you are running this on your own machine, **please replace `munawwar`** with **your own system username**  
+If you are running this on your own machine, **please replace `swarajmrao`** with **your own system username**  
 or adjust the paths to match where you store your project files.
 
 For example, if your username is `john`:
@@ -218,7 +218,7 @@ This node listens to `/hires_small_color`, detects keyframes using ORB + FLANN,
 and saves selected frames into:
 
 ```
-"/home/munawwar/Final Colmap/best_frames/"
+"/home/swarajmrao/Final Colmap/best_frames/"
 ```
 
 Run it:
@@ -239,7 +239,7 @@ frame_0000.png, frame_0001.png, frame_0002.png, ...
 Process the saved frames after transferring them to your local machine:
 
 ```bash
-cd "/home/munawwar/Final Colmap"
+cd "/home/swarajmrao/Final Colmap"
 
 # Clean previous runs
 rm -f database.db
